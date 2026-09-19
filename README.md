@@ -1,7 +1,11 @@
 # 🔒 SEALED — Secure Ephemeral Message Sharing
 
 <p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com" alt="Sealed Logo QR" width="120" height="120" style="border-radius: 20px; border: 4px solid #10b981;" />
+  <img src="./public/assets/sealed_app_banner.jpg" alt="Sealed Banner" width="100%" style="border-radius: 16px; margin-bottom: 20px;" />
+</p>
+
+<p align="center">
+  <img src="./public/assets/sealed_app_logo.jpg" alt="Sealed Logo" width="120" height="120" style="border-radius: 24px; border: 3px solid #10b981; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </p>
 
 <p align="center">
