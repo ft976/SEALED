@@ -1,0 +1,6 @@
+{
+  "name": "Sealed — Secure Ephemeral Message Sharing",
+  "description": "Send and receive secure, self-destructing messages and attachments using unique 6-digit access codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
